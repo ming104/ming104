@@ -13,7 +13,7 @@
 ## ⛏️🔨Tools🔨⛏️
 <a href="https://github.com/ming104" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/ming104" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/></a>
-<a href="https://github.com/ming104" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Rider&logoColor=white"/></a>
+<a href="https://github.com/ming104" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
 
 
 
