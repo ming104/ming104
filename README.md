@@ -11,7 +11,9 @@
 <a href="https://learn.microsoft.com/ko-kr/cpp/cpp/?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 
 ## ⛏️🔨Tools🔨⛏️
-<a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ming104" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ming104" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/></a>
+
 
 
 
