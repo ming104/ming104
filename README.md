@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&text=Hello!&fontSize=120px" />
 
 ## Hi there 👋
 ![ming104's GitHub stats](https://github-readme-stats.vercel.app/api?username=ming104&show_icons=true&theme=apprentice)
