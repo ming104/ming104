@@ -1,7 +1,8 @@
 ## Hi there 👋
-<a href="https://unity.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-</a>
+<a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/></a>
+
 <!--
 **ming104/ming104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
