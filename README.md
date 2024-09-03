@@ -1,4 +1,6 @@
 ## Hi there 👋
+![ming104's GitHub stats](https://github-readme-stats.vercel.app/api?username=ming104&show_icons=true&theme=radical)
+
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
