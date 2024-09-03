@@ -8,12 +8,14 @@
 ## 📖Studying📖
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
-<a href="https://ming10.notion.site/23097dabe46d462e81526dfbe49eb330" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/ko-kr/cpp/cpp/?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=cpp&logoColor=white"/></a>
+
 
 
 </div>
 
 <!--
+<a href="https://ming10.notion.site/23097dabe46d462e81526dfbe49eb330" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 **ming104/ming104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
