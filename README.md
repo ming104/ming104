@@ -6,6 +6,7 @@
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+<a href="https://ming10.notion.site/23097dabe46d462e81526dfbe49eb330" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 </div>
 
