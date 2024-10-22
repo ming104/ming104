@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Welcome!&fontColor=d6ace6&fontSize=30" />
+<!--<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Welcome!&fontColor=d6ace6&fontSize=30" /> -->
 <h3 align="center">안녕하세요! 게임개발을 즐기는 게임개발자 장민교입니다!</h3>
 
   ![ming104's GitHub stats](https://github-readme-stats.vercel.app/api?username=ming104&show_icons=true&theme=apprentice) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ming104)](https://github.com/anuraghazra/github-readme-stats)
