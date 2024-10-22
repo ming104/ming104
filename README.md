@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Hi!My Name is min kyo jang!&fontColor=d6ace6&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Welcome to my Github!&fontColor=d6ace6&fontSize=30" />
 
 ![ming104's GitHub stats](https://github-readme-stats.vercel.app/api?username=ming104&show_icons=true&theme=apprentice) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ming104)](https://github.com/anuraghazra/github-readme-stats)
 
